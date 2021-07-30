@@ -1,8 +1,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Vaim--IP-The%20IP%20Tracker-orange" width="250" height="25"><br>
-<img title="Vaim-Emsg" src="https://img.shields.io/badge/version-1.0-red" width="100" height="25"><br>
-<img src="VaimIP.png"><br>
+<img title="Vaim-IP" src="https://img.shields.io/badge/version-1.0-red" width="100" height="25"><br>
+<img src="vaim-ip.png"><br>
 </center>
 </p>
 <br>
