@@ -5,11 +5,6 @@
 <img src="vaim-ip.png"><br>
 </center>
 </p>
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/Made%20In-India-orange" width="250" height="40"><br>
-</p>
-<br>
 
 ### What is Vaim-IP ?
 > This is use for ip tracker.
