@@ -64,6 +64,6 @@ Youtube [@Vaimpier_Ritik](https://www.youtube.com/channel/UCDWhaLh7OIKzH4Bk952l7
 
 
 ### For Video Tutorial
-- <a href="https://github.com/VaimpierOfficial/Vaim-IP"> CLICK HERE AND SEE TUTORIAL ON LAPTOP</a>
-- <a href="https://github.com/VaimpierOfficial/Vaim-IP"> CLICK HERE AND SEE TUTORIAL FOR ANDROID</a>
+- <a href="https://www.youtube.com/watch?v=rLl1kjb6x_k"> CLICK HERE AND SEE TUTORIAL ON LAPTOP</a>
+- <a href="https://www.youtube.com/watch?v=rLl1kjb6x_k"> CLICK HERE AND SEE TUTORIAL FOR ANDROID</a>
 
